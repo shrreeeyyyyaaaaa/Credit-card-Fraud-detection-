@@ -1,0 +1,15 @@
+Data Description: 
+Credit card fraud detection is the process of identifying and preventing fraudulent transactions made using credit cards. 
+The data used for credit card fraud detection typically includes information about the transactions made using credit 
+cards, as well as information about the cardholders and the merchants involved in the transactions. 
+The data includes the following features: 
+Transaction amount: The amount of money involved in the transaction. 
+Transaction date and time: The date and time at which the transaction was made. 
+Cardholder information: Information about the cardholder, such as their name, addresses, and contact details. 
+Card information: Information about the credit card, such as the card number, expiration date, and security 
+code. 
+Merchant information: Information about the merchant, such as their name, addresses, and contact details. 
+Transaction type: The type of transaction, such as online purchase, in-store purchase, or cash withdrawal. 
+Transaction status: Whether the transaction was approved or declined. 
+Fraud status: Whether the transaction was fraudulent or not. 
+DATASET LINK https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
